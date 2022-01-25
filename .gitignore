@@ -1,0 +1,5 @@
+vendor
+.env
+nohup.out
+output.txt
+.idea

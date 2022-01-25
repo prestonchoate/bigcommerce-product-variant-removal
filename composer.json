@@ -1,0 +1,6 @@
+{
+    "require": {
+      "ext-curl": "*",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
